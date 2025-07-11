@@ -33,6 +33,7 @@ public class MorrisTraversal{
         }
         return arr;
     }
+    // traversals
     public static void main(String[] args){
 
     }
